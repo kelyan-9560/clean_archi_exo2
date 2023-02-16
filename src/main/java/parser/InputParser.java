@@ -1,3 +1,5 @@
+package parser;
+
 import java.util.Scanner;
 
 public class InputParser {
@@ -11,4 +13,6 @@ public class InputParser {
         }
         return 0;
     }
+
+
 }
